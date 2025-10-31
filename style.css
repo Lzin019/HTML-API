@@ -1,6 +1,6 @@
-style.css
-
-img {
-    width: 250px;
-    height: 250px;
+.usuario{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px 0;
+    cursor: pointer;
 }
